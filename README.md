@@ -13,3 +13,6 @@ step3 : Clone the installer and start the installation.
       $ git clone https://github.com/RAKWireless/RAK2245_for_helium.git ~/RAK2245_for_helium
       $ cd ~/RAK2245_for_helium
       $ sudo ./install.sh
+
+
+More things can be found here: https://forum.rakwireless.com/t/helium-hotspot-version-firmware-for-rpi-3-4-rak2245-pi-hat/1697
